@@ -1,0 +1,8 @@
+{
+  "/doc-indexer": {
+    "target": "https://pulse-doc-triage.properpay.cgi.com",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
